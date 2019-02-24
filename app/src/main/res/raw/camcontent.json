@@ -1,0 +1,372 @@
+{"datalist":[
+        {
+      "title": "Basics: How Your Camera Works",
+      "description": "",
+      "img": "",
+      "imgUrl": "",
+      "val1":"",
+      "val2":"",
+      "val3":"",
+      "colCnt":-1,
+      "subitemList": [
+        {
+          "title": "",
+          "description": "Understanding Digital Camera Sensors",
+          "img": "",
+          "imgUrl": "",
+          "val1":"",
+          "val2":"",
+          "val3":"",
+          "colCnt":-1,
+          "subitemList": null
+        },
+        {
+        "title": "",
+        "description": "Understanding Camera Exposure: Aperture, ISO & Shutter Speed  ",
+        "img": "",
+        "imgUrl": "",
+        "val1":"",
+        "val2":"",
+        "val3":"",
+        "colCnt":-1,
+        "subitemList": null
+        },
+        {
+        "title": "",
+        "description": "Understanding Camera Metering",
+        "img": "",
+        "imgUrl": "",
+        "val1":"",
+        "val2":"",
+        "val3":"",
+        "colCnt":-1,
+        "subitemList": null
+        },
+        {
+        "title": "",
+        "description": "Understanding Depth of Field",
+        "img": "",
+        "imgUrl": "",
+        "val1":"",
+        "val2":"",
+        "val3":"",
+        "colCnt":-1,
+        "subitemList": null
+        },
+        {
+        "title": "",
+        "description": "Understanding Camera Lenses: Focal Length & Aperture",
+        "img": "",
+        "imgUrl": "",
+        "val1":"",
+        "val2":"",
+        "val3":"",
+        "colCnt":-1,
+        "subitemList": null
+        },
+        {
+        "title": "",
+        "description": "Understanding White Balance",
+        "img": "",
+        "imgUrl": "",
+        "val1":"",
+        "val2":"",
+        "val3":"",
+        "colCnt":-1,
+        "subitemList": null
+        },
+        {
+        "title": "",
+        "description": "Understanding Camera Autofocus",
+        "img": "",
+        "imgUrl": "",
+        "val1":"",
+        "val2":"",
+        "val3":"",
+        "colCnt":-1,
+        "subitemList": null
+        }
+      ]
+    },
+        {
+          "title": "Advanced Concepts",
+          "description": "",
+          "img": "",
+          "imgUrl": "",
+          "val1":"",
+          "val2":"",
+          "val3":"",
+          "colCnt":-1,
+          "subitemList": [
+            {
+              "title": "",
+              "description": "Digital Camera Sensor Sizes: How Do These Influence Photography?",
+              "img": "",
+              "imgUrl": "",
+              "val1":"",
+              "val2":"",
+              "val3":"",
+              "colCnt":-1,
+              "subitemList": null
+            },
+            {
+              "title": "",
+              "description": "Understanding Diffraction: Pixel Size, Aperture and Airy Disks ",
+              "img": "",
+              "imgUrl": "",
+              "val1":"",
+              "val2":"",
+              "val3":"",
+              "colCnt":-1,
+              "subitemList": null
+            },
+            {
+              "title": "",
+              "description": "Digital Cameras vs. The Human Eye (NEW)",
+              "img": "",
+              "imgUrl": "",
+              "val1":"",
+              "val2":"",
+              "val3":"",
+              "colCnt":-1,
+              "subitemList": null
+            }
+
+          ]
+        },
+  {
+    "title": "THE EXPOSURE TRIANGLE",
+    "description": "",
+    "img": "",
+    "imgUrl": "",
+    "val1": "",
+    "val2": "",
+    "val3": "",
+    "colCnt": -1,
+    "subitemList": [
+      {
+        "title": "APERTURE",
+        "description": "Aperture is a measure of how open or closed the lens’ iris is. A wider aperture (or lower f-number) means more light will be let in by the lens, simply because the opening is larger. A narrower aperture (or higher f-number) allows less light to reach the sensor.\n You might wonder why we would ever want less light to reach the sensor. The answer the majority of the time is that we want a larger depth of field. Depth of field is a byproduct of aperture. Narrower apertures (higher f-numbers) give a greater depth of field, allowing more of a scene to be in focus (think landscapes). Wider apertures (lower f-numbers) create a narrow depth of field, which can help isolate a subject and is one of the greatest compositional tools at your disposal (think portraiture). \n You should also note that most lenses are their sharpest around f/5.6 or f/8. However, many photographers are willing to trade some sharpness for the subject-isolating effects of a wider aperture.",
+        "img": "",
+        "imgUrl": "",
+        "val1": "",
+        "val2": "",
+        "val3": "",
+        "colCnt": -1,
+        "subitemList": [
+          {
+            "title": "",
+            "description": "",
+            "img": "",
+            "imgUrl": "",
+            "val1": "",
+            "val2": "",
+            "val3": "",
+            "colCnt": 3,
+            "subitemList": [
+              {
+                "title": "",
+                "description": "",
+                "img": "",
+                "imgUrl": "",
+                "val1": "Aperture Setting",
+                "val2": "Relative Light",
+                "val3": "Example Shutter Speed",
+                "colCnt": 0,
+                "subitemList": [
+
+                ]
+              },
+              {
+                "title": "",
+                "description": "",
+                "img": "",
+                "imgUrl": "",
+                "val1": "f/22",
+                "val2": "1X",
+                "val3": "16 seconds",
+                "colCnt": 0,
+                "subitemList": [
+
+                ]
+              },
+              {
+                "title": "",
+                "description": "",
+                "img": "",
+                "imgUrl": "",
+                "val1": "f/16",
+                "val2": "2X",
+                "val3": "8 seconds",
+                "colCnt": 0,
+                "subitemList": [
+
+                ]
+              },
+              {
+                "title": "",
+                "description": "",
+                "img": "",
+                "imgUrl": "",
+                "val1": "f/11",
+                "val2": "4X",
+                "val3": "4 seconds",
+                "colCnt": 0,
+                "subitemList": [
+
+                ]
+              },
+              {
+                "title": "",
+                "description": "",
+                "img": "",
+                "imgUrl": "",
+                "val1": "f/8.0",
+                "val2": "8X",
+                "val3": "8 seconds",
+                "colCnt": 0,
+                "subitemList": [
+
+                ]
+              },
+              {
+                "title": "",
+                "description": "",
+                "img": "",
+                "imgUrl": "",
+                "val1": "f/5.6",
+                "val2": "16X",
+                "val3": "1 second",
+                "colCnt": 0,
+                "subitemList": [
+
+                ]
+              },
+              {
+                "title": "",
+                "description": "",
+                "img": "",
+                "imgUrl": "",
+                "val1": "f/4.0",
+                "val2": "32X",
+                "val3": "1/2 second",
+                "colCnt": 0,
+                "subitemList": [
+
+                ]
+              },
+              {
+                "title": "",
+                "description": "",
+                "img": "",
+                "imgUrl": "",
+                "val1": "f/2.8",
+                "val2": "64X",
+                "val3": "1/4 seconds",
+                "colCnt": 0,
+                "subitemList": [
+
+                ]
+              },
+              {
+                "title": "",
+                "description": "",
+                "img": "",
+                "imgUrl": "",
+                "val1": "f/2.0",
+                "val2": "128X",
+                "val3": "1/8 second",
+                "colCnt": 0,
+                "subitemList": [
+
+                ]
+              },
+              {
+                "title": "",
+                "description": "",
+                "img": "",
+                "imgUrl": "",
+                "val1": "f/1.4",
+                "val2": "256X",
+                "val3": "1/15 seconds",
+                "colCnt": 0,
+                "subitemList": [
+
+                ]
+              }
+
+
+            ]
+          },
+          {
+            "title": "Depth of Field & Resolution",
+            "description": "",
+            "img": "",
+            "imgUrl": "",
+            "val1": "",
+            "val2": "",
+            "val3": "",
+            "colCnt": -1,
+            "subitemList": [
+              {
+                "title": "Depth of Field Calculator",
+                "description": "",
+                "img": "",
+                "imgUrl": "",
+                "val1": "",
+                "val2": "",
+                "val3": "",
+                "colCnt": 3,
+                "subitemList": null
+              },
+              {
+                "title": "Tilt/Shift Lens Depth of Field Calculator",
+                "description": "",
+                "img": "",
+                "imgUrl": "",
+                "val1": "",
+                "val2": "",
+                "val3": "",
+                "colCnt": -1,
+                "subitemList": null
+              },
+              {
+                "title": "Hyperfocal Distance Calculator",
+                "description": "",
+                "img": "",
+                "imgUrl": "",
+                "val1": "",
+                "val2": "",
+                "val3": "",
+                "colCnt": -1,
+                "subitemList": null
+              },
+              {
+                "title": "Diffraction Limit Calculator",
+                "description": "",
+                "img": "",
+                "imgUrl": "",
+                "val1": "",
+                "val2": "",
+                "val3": "",
+                "colCnt": -1,
+                "subitemList": null
+              },
+              {
+                "title": "Photo Enlargement Calculator: Resolution & Sharpening Radius",
+                "description": "",
+                "img": "",
+                "imgUrl": "",
+                "val1": "",
+                "val2": "",
+                "val3": "",
+                "colCnt": -1,
+                "subitemList": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]}
